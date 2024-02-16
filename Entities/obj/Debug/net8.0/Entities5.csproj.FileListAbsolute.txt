@@ -1,0 +1,11 @@
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\bin\Debug\net8.0\Entities5.deps.json
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\bin\Debug\net8.0\Entities5.dll
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\bin\Debug\net8.0\Entities5.pdb
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.AssemblyInfoInputs.cache
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.AssemblyInfo.cs
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.csproj.CoreCompileInputs.cache
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.dll
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\refint\Entities5.dll
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\Entities5.pdb
+C:\Users\2004y\OneDrive\Masaüstü\KodlamaIOTest\Entities\obj\Debug\net8.0\ref\Entities5.dll
